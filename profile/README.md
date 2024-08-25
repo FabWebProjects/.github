@@ -1,3 +1,9 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FabWebProjects.github" alt="visitor badge" />
+</div>
+
+<br/>
+
 # ![FabWebProjects Logo](https://apifreelance.fabwebprojects.fr/storage/profile_images/logo.png) FabWebProjects
 
 Bienvenue sur la page de l'organisation **FabWebProjects** !
