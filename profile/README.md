@@ -4,7 +4,7 @@
 
 <br/>
 
-# ![FabWebProjects Logo](https://apifreelance.fabwebprojects.fr/storage/profile_images/logo.png) FabWebProjects
+# ![FabWebProjects Logo](https://apifreelance.fabwebprojects.fr/profile_images/logo.png) FabWebProjects
 
 Bienvenue sur la page de l'organisation **FabWebProjects** !
 
