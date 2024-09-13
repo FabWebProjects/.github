@@ -3,8 +3,9 @@
 </div>
 
 <br/>
-
-# ![FabWebProjects Logo](https://apifreelance.fabwebprojects.fr/profile_images/logo.png) FabWebProjects
+<div align="center">
+<img src="https://apifreelance.fabwebprojects.fr/profile_images/logo.png" alt="FabWebProjects Logo" width="200" />
+</div>
 
 Bienvenue sur la page de l'organisation **FabWebProjects** !
 
